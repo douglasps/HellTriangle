@@ -18,8 +18,11 @@ example = [[6],[3,5],[9,7,1],[4,6,8,4]]
 ## Why c#
 C# it's my main programming language, I work with C# for about 5 years now and already use the native test library of .Net 4.5. This exercise doesn't seem have advantages to be done in any particular programming language, that's why I chose one that I am faster using.
 
+## Prerequisites
+- Visual Studio 2013 or above (with .Net framework 4.5 or above installed)
+
 ## Setup:
-- Open the solution in Visual Studio 2013 or above, because the test library used works in .Net framework 4.5 or above (thia was created in vs 2017 .Net framework 4.5).
+- Open the solution in Visual Studio 2013 or above, because the test library used works in .Net framework 4.5 or above (this project was created in vs 2017 .Net framework 4.5).
 - In the "Test" menu of visual studio click on the option Test >> Run >> All tests, or Ctrl + R, A.
 - The tests will be run and displayed the runtimes in the Test Explorer;
 - The tests are in the project "HellTriangle.Tests" and the code that makes the calculation is in the project "HellTriangle"
