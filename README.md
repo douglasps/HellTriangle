@@ -2,9 +2,9 @@
 Given a triangle of numbers, find the maximum total from top to bottom
 ```
 Example:
-6
-3 5
-9 7 1
+   6
+  3 5
+ 9 7 1
 4 6 8 4
 In this triangle the maximum total is: 6 + 5 + 7 + 8 = 26
 An element can only be summed with one of the two nearest elements in the next row.
@@ -15,8 +15,8 @@ The triangle from above would be:
 example = [[6],[3,5],[9,7,1],[4,6,8,4]]
 ```
 
-## Why c#
-C# it's my main programming language, I work with C# for about 5 years now and already use the native test library of .Net 4.5. This exercise doesn't seem have advantages to be done in any particular programming language, that's why I chose one that I am faster using.
+## Why C#
+C# it's my main programming language, I work with C# for about 5 years now and already use the native test library of .Net 4.5. This exercise doesn't seem to have advantages to be done in any particular programming language, that's why I chose one that I am faster using.
 
 ## Prerequisites
 - Visual Studio 2013 or above (with .Net framework 4.5 or above installed)
